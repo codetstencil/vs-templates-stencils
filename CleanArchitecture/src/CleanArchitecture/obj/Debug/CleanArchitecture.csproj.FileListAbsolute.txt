@@ -1,0 +1,7 @@
+D:\projects-desktop\codestencil\custom-stencils\visual-studio-templates\CleanArchitecture\build\ZeraSystems.CleanArchitecture.dll
+D:\projects-desktop\codestencil\custom-stencils\visual-studio-templates\CleanArchitecture\build\ZeraSystems.CleanArchitecture.pdb
+D:\projects-desktop\codestencil\custom-stencils\visual-studio-templates\CleanArchitecture\src\CleanArchitecture\obj\Debug\CleanArchitecture.csprojAssemblyReference.cache
+D:\projects-desktop\codestencil\custom-stencils\visual-studio-templates\CleanArchitecture\src\CleanArchitecture\obj\Debug\CleanArchitecture.csproj.CoreCompileInputs.cache
+D:\projects-desktop\codestencil\custom-stencils\visual-studio-templates\CleanArchitecture\src\CleanArchitecture\obj\Debug\CleanArchitecture.csproj.CopyComplete
+D:\projects-desktop\codestencil\custom-stencils\visual-studio-templates\CleanArchitecture\src\CleanArchitecture\obj\Debug\ZeraSystems.CleanArchitecture.dll
+D:\projects-desktop\codestencil\custom-stencils\visual-studio-templates\CleanArchitecture\src\CleanArchitecture\obj\Debug\ZeraSystems.CleanArchitecture.pdb
